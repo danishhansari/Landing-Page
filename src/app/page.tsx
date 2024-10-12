@@ -1,9 +1,11 @@
 import { Header } from "@/sections/header";
+import { Hero } from "@/sections/hero";
 
 export default function Home() {
   return (
-    <h1>
+    <>
       <Header />
-    </h1>
+      <Hero />
+    </>
   );
 }
