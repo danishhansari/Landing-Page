@@ -1,11 +1,11 @@
-import { CallToAction } from "@/sections/call-to-action";
-import { Footer } from "@/sections/footer";
-import { Header } from "@/sections/header";
-import { Hero } from "@/sections/hero";
-import { LogoTicker } from "@/sections/logo-ticker";
-import { Pricing } from "@/sections/pricing";
-import { ProductShowcase } from "@/sections/product-showcase";
-import { Testimonials } from "@/sections/testimonials";
+import { CallToAction } from "@/components/call-to-action";
+import { Footer } from "@/components/footer";
+import { Header } from "@/components/header";
+import { Hero } from "@/components/hero";
+import { LogoTicker } from "@/components/logo-ticker";
+import { Pricing } from "@/components/pricing";
+import { ProductShowcase } from "@/components/product-showcase";
+import { Testimonials } from "@/components/testimonials";
 
 export default function Home() {
   return (
